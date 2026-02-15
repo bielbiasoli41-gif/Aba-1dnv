@@ -55,7 +55,7 @@ return function(ContentContainer, LocalPlayer, Players, RunService, MarketplaceS
     discordTop.TextColor3 = Color3.fromRGB(200, 200, 200)
     discordTop.TextXAlignment = Enum.TextXAlignment.Center
     
-    createSpacer(10, ContentContainer)
+    createSpacer(3, ContentContainer)
     
     -- Imagem Discord
     local img = Instance.new("ImageLabel")
